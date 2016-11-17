@@ -1,0 +1,21 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+#ifndef CLASSES_H_
+#define CLASSES_H_
+//Declaration of the n1 Class
+class n1
+{
+	// Public Variable declaration
+public:
+	string name;
+	  int value_1;
+	  float value_2;
+};
+//Declaration od the n2 Class
+class n2 {
+	// Public Variable declaration
+  string name;
+};
+#endif /* CLASSES_H_ */
